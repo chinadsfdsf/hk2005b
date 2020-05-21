@@ -11,6 +11,7 @@ categories:
   - features
 ---
 
+{{< siteParamsRecentPostsTitle >}} 
 {{< my2buildtime "buildtime 创建时间" >}}
 
 {{< mydiv4o link="https://hk01.chinadsf.org/"     text="hk01     2020年1月之前的新聞">}}
@@ -28,6 +29,7 @@ categories:
 {{< mydiv4o link="https://hk2005a.chinadsf.org/"  text="hk2005a  2020年5月的新聞a" >}}
 {{< mydiv4o link="https://hk2005b.chinadsf.org/"  text="hk2005b  2020年5月的新聞b" bg="lightcoral" >}}
 {{< mydiv4o link="https://hk2005c.chinadsf.org/"  text="hk2005c  2020年5月的新聞c" >}}
+{{< mydiv4o link="https://hk2005d.chinadsf.org/"  text="hk2005d  2020年5月的新聞d" >}}
 
 {{< mybrline1 color="blue" >}}
 
