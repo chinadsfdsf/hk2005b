@@ -201,15 +201,10 @@ anchor = "smart"
 
 [[menu.main]]
   weight = 81
-  name   = "youtube"
-  url    = "/hot/youtube"
+  name   = "作者列表"
+  url    = "/hot/byauthor"
   pre    = "fas fa-info-circle"
 
-[[menu.main]]
-  weight = 82
-  name   = "twitter"
-  url    = "/hot/twitter"
-  pre    = "fas fa-info-circle"
 
 #[[menu.main]]
 #  weight = 90
@@ -229,7 +224,7 @@ anchor = "smart"
   pre    = "Hot"
 [[menu.main]]
   weight = 87
-  name   = "美國政府每日疫情發布會"
+  name   = "每日疫情"
   url    = "/hot/fuckccp/"
   pre    = "Hot"
 [[menu.main]]
