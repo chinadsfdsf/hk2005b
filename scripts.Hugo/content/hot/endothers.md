@@ -30,6 +30,7 @@ categories:
 {{< mydiv4o link="https://hk2005b.chinadsf.org/"  text="hk2005b  2020年5月的新聞b" bg="lightcoral" >}}
 {{< mydiv4o link="https://hk2005c.chinadsf.org/"  text="hk2005c  2020年5月的新聞c" >}}
 {{< mydiv4o link="https://hk2005d.chinadsf.org/"  text="hk2005d  2020年5月的新聞d" >}}
+{{< mydiv4o link="https://hk2005e.chinadsf.org/"  text="hk2005e  2020年5月的新聞e" >}}
 
 {{< mybrline1 color="blue" >}}
 
