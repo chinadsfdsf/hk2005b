@@ -174,7 +174,7 @@ anchor = "smart"
 
 [[menu.main]]
   weight = 5
-  name   = "所有文章"
+  name   = "所有"
   #url    = "/blog"
   url    = "/tags/"
   pre    = "fas fa-rss"
@@ -194,14 +194,14 @@ anchor = "smart"
 [[menu.main]]
   weight = 80
   #name   = "分类列表"
-  name   = "总索引"
+  name   = "索引"
   #url    = "/tags/"
   url    = "/hot/alltags/"
   pre    = "fas fa-info-circle"
 
 [[menu.main]]
   weight = 81
-  name   = "作者列表"
+  name   = "作者"
   url    = "/hot/byauthor"
   pre    = "fas fa-info-circle"
 
@@ -214,23 +214,29 @@ anchor = "smart"
 
 [[menu.main]]
   weight = 85
-  name   = "其他月份"
+  name   = "月份"
   url    = "/hot/endothers/"
   pre    = "Hot"
 [[menu.main]]
   weight = 86
-  name   = "热点新闻"
+  name   = "热点"
   url    = "/hot/hotnews/"
   pre    = "Hot"
 [[menu.main]]
   weight = 87
-  name   = "每日疫情"
+  name   = "疫情"
   url    = "/hot/fuckccp/"
   pre    = "Hot"
 [[menu.main]]
   weight = 88
   name   = "蕭若元"
   url    = "/hot/memehongkong/"
+  pre    = "Hot"
+
+[[menu.main]]
+  weight = 89
+  name   = "唐柏桥"
+  url    = "/hot/tangbaiqiao/"
   pre    = "Hot"
 
 
